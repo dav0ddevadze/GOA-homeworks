@@ -1,0 +1,2 @@
+print("david")
+print("devadze")
