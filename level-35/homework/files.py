@@ -1,6 +1,14 @@
-def square(x):
-    return x**5
+def five(number):
+    return number + 5
+
+print(five(10))
+
+def multiply(a, b):
+    return a * b
+print(multiply(4, 5))  
+
+def to_uppercase(s):
+    return s.upper()
 
 
-result = square(5)
-print(result)
+print(to_uppercase("Hello World"))  
