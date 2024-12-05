@@ -1,1 +1,3 @@
-#ar iyo davaleba
+# selection -არჩევა
+# iteracion - გამეორება
+# sequencing - ალგორითმი

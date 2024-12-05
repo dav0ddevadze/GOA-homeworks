@@ -3,7 +3,7 @@ if current_hour < 12:
     print("Good morning!")
 else:
     print("Good afternoon!")
- temperature = 32  
+    temperature = 32  
 if temperature > 30:
     print("It's hot outside!")
 else:

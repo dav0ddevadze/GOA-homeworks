@@ -1,0 +1,48 @@
+body{background-color: green;}
+#imggoa {
+    position: fixed;
+    top: 160px;    
+    left: 230px ;
+    }
+    #goa{
+   
+       position: fixed;
+    top: 0px;    
+    left: 200px ;
+    
+    }
+    #p1{
+   
+      position: fixed;
+   top: 400px;    
+   left: 200px ;
+   
+   }
+   #about{
+   
+      position: fixed;
+   top: 323px;    
+   left: 200px ;
+   
+   }   
+   #sign{
+   
+      position: fixed;
+   top: 50px;    
+   left: 250px ;
+   
+   }  
+ 
+  #email{
+   
+      position: fixed;
+   top: 100px;    
+   left: 250px ;
+   
+   } #password{
+   
+      position: fixed;
+   top: 125px;    
+   left: 250px ;
+   
+   }

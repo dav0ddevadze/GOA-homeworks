@@ -16,3 +16,9 @@ surname="devadze"
 name="david"
 
 print(surname+name)
+
+
+
+
+
+
