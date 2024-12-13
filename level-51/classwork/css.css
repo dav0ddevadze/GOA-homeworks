@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+   flex-direction: row-reverse;
+}
+
+.color1 { background-color: red; 
+    height: 50px;
+    width: 50px   ;
+    margin: 5px;
+}
+.color2 { background-color: blue; 
+    height: 50px;
+    width: 50px   ;
+    margin: 5px;
+}
+.color3 { background-color: green; 
+    height: 50px;
+    width: 50px   ;
+    margin: 5px;
+}
+.color4 { background-color: yellow; 
+    height: 50px;
+    width: 50px   ;
+    margin: 5px;
+}
