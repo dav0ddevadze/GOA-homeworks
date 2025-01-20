@@ -1,0 +1,8 @@
+div {
+    display: flex;
+    justify-content: space-around;
+ 
+}
+img{
+    box-shadow: 4px 3px 4px 10px #111;
+}
