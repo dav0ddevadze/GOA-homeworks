@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>webpage</title>
+    <script>
+        function compareCheckboxes() {
+            
+            const checkbox1 = document.getElementById("checkbox1");
+            const checkbox2 = document.getElementById("checkbox2");
+
+            
+            const result = checkbox1.checked && checkbox2.checked;
+
+        
+            document.getElementById("result").innerText = `Result of the operation is ${result}`;
+
+            
+            console.log(`Result of the operation is ${result}`);
+        }
+    </script>
+</head>
+<body>
+    <form>
+        <label for="checkbox1">Option 1</label>
+        <input type="checkbox" id="checkbox1" name="option1"><br><br>
+
+        <label for="checkbox2">Option 2</label>
+        <input type="checkbox" id="checkbox2" name="option2"><br><br>
+
+        <button type="button" onclick="compareCheckboxes()">Submit</button>
+    </form>
+    <p id="result"></p>
+</body>
+</html>
